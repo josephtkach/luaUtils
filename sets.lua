@@ -1,7 +1,8 @@
 -----------------------------------------------------------------------------------------
 -- sets.lua
 -----------------------------------------------------------------------------------------
--- lightweight functional programming library
+-- lightweight functional programming library. If you prefer a more academic
+-- definition of "functional programming", this is probably not the library for you
 -----------------------------------------------------------------------------------------
 local set = {}
 set.__index = set
